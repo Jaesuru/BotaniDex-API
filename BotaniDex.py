@@ -10,7 +10,7 @@ if 'plant_info' not in st.session_state:
 if 'detailed_info' not in st.session_state:
     st.session_state.detailed_info = None
 
-API_KEY = '**'
+API_KEY = 'your_api_key'
 BASE_URL = 'https://perenual.com/api/'
 
 section = st.sidebar.radio("**Sections**:", ["Basic Plant Care", "Plant Safety Checker"])
