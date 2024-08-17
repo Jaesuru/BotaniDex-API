@@ -38,19 +38,19 @@ Run the application:
 bash
 Copy code
 streamlit run app.py
-Usage
-Basic Plant Care
+## Usage
+### Basic Plant Care
 Select "Basic Plant Care" from the sidebar.
 Enter the name of the plant you want to search for.
 Click "Search" to view basic information such as common name, watering needs, and sunlight requirements.
 Check "Detailed Information" for more in-depth data, including propagation methods and growth rates.
 Optionally, visualize the plant's growth rate, care level, pruning activity, and places of origin.
-Plant Safety Checker
+### Plant Safety Checker
 Select "Plant Safety Checker" from the sidebar.
 Enter the name of the plant you want to check.
 Choose between "Interactive Table" or "Info Boxes" for display format.
 Click "Search Safety" to see if the plant is edible or poisonous.
-Customization
+## Customization
 Background Color: You can customize the app's background color using the color picker in the sidebar.
 Contributing
 Feel free to fork the repository and submit pull requests. Contributions, whether they are bug fixes, improvements, or new features, are welcome!
